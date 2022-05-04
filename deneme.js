@@ -19,3 +19,4 @@ var p2 = document.getElementById('p2')
 
 div1.insertBefore(baslik,p1);
 div1.removeChild(p2)
+div1.replaceChild(baslik,p1)
