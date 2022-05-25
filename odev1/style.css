@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+}
+.main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.img{
+    margin-top: 100px;
+    width: 17%;
+}
+
+.context{
+    font-size: 30px;
+    color: #e98208;
+    margin: 10px;
+    text-align: center;
+}
